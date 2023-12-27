@@ -1,0 +1,24 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.3.67",
+    "axios": "^1.5.1",
+    "core-js": "^3.8.3",
+    "vee-validate": "^4.11.8",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuetify": "^3.3.22"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.3.67",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
